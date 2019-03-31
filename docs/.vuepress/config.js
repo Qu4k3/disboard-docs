@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Disboard',
+    title: 'Disboard docs',
     description: 'Disboard documentation',
     base: "/",
     themeConfig: {

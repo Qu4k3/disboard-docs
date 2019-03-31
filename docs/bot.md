@@ -17,7 +17,15 @@
 
 Discord bot built for team management and helpful info commands.
 
+### Color code
+
+RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63</span>&nbsp;&nbsp;<span style="background-color: #e91e63;padding:5px 10px;color:#fff;">rgb(233, 30, 99)</span> / sRGB <span style="background-color: #ff1865;padding:5px 10px;color:#fff;">#ff1865</span>&nbsp;&nbsp;<span style="background-color: #ff1865;padding:5px 10px;color:#fff;">rgb(255, 24, 101)</span>
+
 ### Used
+
+<p align="center">
+    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561942886770278421/node_2.png">&nbsp;&nbsp;<img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943014038044692/discordjs.png">&nbsp;&nbsp;<img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943010930065426/discord.png">&nbsp;&nbsp;<img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943019151163393/webhooks.png">&nbsp;&nbsp;<img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943015493730315/glitch.png">
+</p>
 
 - Nodejs
 - Glitch hosting - [site](https://glitch.com)
