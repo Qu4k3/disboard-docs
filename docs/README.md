@@ -22,7 +22,7 @@ sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239
 </p>
 
 - Nodejs
-- VuePress
+- VuePress - [site](https://vuepress.vuejs.org)
 - Netlify deploy/hosting - [site](https://www.netlify.com)
 
 ### Dependencies

@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/uptimerobot/status/m781896193-0fc26013b414711d48d26082.svg?label=API%20status&style=flat" /> <img src="https://img.shields.io/uptimerobot/ratio/m781896193-0fc26013b414711d48d26082.svg?label=API%20uptime&style=flat" />
 </p>
 <p align="center">
-    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/503303753705848838/541409603255009291/shuvi-white.gif">
+    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/561938814063607823/561966129514283008/shuvi.gif">
 </p>
 
 ### About
@@ -24,8 +24,8 @@ RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e
 ### Used
 
 - Nodejs
-- MongoDB Atas Cluster
-- Heroku hosting
+- MongoDB Atas Cluster - [site](https://www.mongodb.com/cloud/atlas)
+- Heroku hosting - [site](https://www.heroku.com)
 
 ### Dependencies
 
