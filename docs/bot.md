@@ -15,7 +15,7 @@
 
 ### About
 
-Discord bot built for team management, fast info checking and some other helpful available commands.
+Discord bot built for team management, quick info checking and some other helpful available commands.
 
 ### Color code
 

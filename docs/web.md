@@ -3,6 +3,11 @@
 ## Info
 
 <p align="center">
+    <img src="https://img.shields.io/uptimerobot/status/m782313365-bb837257051f080edab58f83.svg?label=server&style=flat" /> <img src="https://img.shields.io/uptimerobot/ratio/m782313365-bb837257051f080edab58f83.svg?label=server%20uptime&style=flat" />&nbsp;
+    <img src="https://img.shields.io/uptimerobot/status/m782313366-da14853edeb66fc0008474c1.svg?label=website&style=flat" /> <img src="https://img.shields.io/uptimerobot/ratio/m782313366-da14853edeb66fc0008474c1.svg?label=website%20uptime&style=flat" />
+</p>
+
+<p align="center">
     <img width="250" height="300" src="https://cdn.discordapp.com/attachments/487325032310243340/561663725946273799/web_dark_border.png">
 </p>
 
