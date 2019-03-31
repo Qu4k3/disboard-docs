@@ -12,6 +12,14 @@
 
 RGB <span style="background-color: #9b59b6;padding:5px 10px;color:#fff;">#9b59b6</span>&nbsp;&nbsp;<span style="background-color: #9b59b6;padding:5px 10px;color:#fff;">rgb(155, 89, 182)</span> / sRGB <span style="background-color: #af59ba;padding:5px 10px;color:#fff;">#af59ba</span>&nbsp;&nbsp;<span style="background-color: #af59ba;padding:5px 10px;color:#fff;">rgb(175, 89, 186)</span>
 
+### Check status
+
+[https://disboard.team](https://disboard.team)
+
+### Repository <Badge text="private" type="warn" vertical="top"/>
+
+[https://github.com/Qu4k3/disboard-web](https://github.com/Qu4k3/disboard-web)
+
 ## Technology
 
 Lorem ipsum

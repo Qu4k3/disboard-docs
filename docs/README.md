@@ -30,7 +30,7 @@ sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239
 - vuepress
 - webpack-dev-middleware _(v 3.6.0)_
 
-### Repository
+### Repository <Badge text="public"/>
 
 [https://github.com/Qu4k3/disboard-docs](https://github.com/Qu4k3/disboard-docs)
 

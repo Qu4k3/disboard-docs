@@ -41,6 +41,14 @@ RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e
 
 - nodemon
 
+### Check status
+
+[https://api.disboard.team](https://api.disboard.team)
+
+### Repository <Badge text="private" type="warn" vertical="top"/>
+
+[https://github.com/Qu4k3/disboard-api](https://github.com/Qu4k3/disboard-api)
+
 ## Players
 
 Lorem ipsum

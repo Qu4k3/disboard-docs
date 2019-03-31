@@ -46,7 +46,7 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 
 [http://disboard-bot.glitch.me](http://disboard-bot.glitch.me)
 
-### Repository
+### Repository <Badge text="public"/>
 
 [https://github.com/Qu4k3/disboard-bot](https://github.com/Qu4k3/disboard-bot)
 
