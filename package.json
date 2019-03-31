@@ -1,0 +1,18 @@
+{
+  "name": "jibril",
+  "version": "1.0.0",
+  "description": "Disboard Documentation",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": "github:Qu4k3/disboard-docs",
+  "author": "Qu4k3",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.10",
+    "webpack-dev-middleware": "^3.6.0"
+  }
+}
