@@ -44,7 +44,7 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 
 ### Check status
 
-[http://disboard-bot.glitch.me](http://disboard-bot.glitch.me)
+[https://bot.disboard.team](https://bot.disboard.team)
 
 ### Repository <Badge text="public"/>
 
