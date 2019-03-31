@@ -33,11 +33,13 @@ npm install webpack-dev-middleware@3.6.0
 
 > run VuePress
 
-```shell
 test it
+```shell
 npm run docs:dev
+```
 
 or built it
+```shell
 npm run docs:build
 ```
 
