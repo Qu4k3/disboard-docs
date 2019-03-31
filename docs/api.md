@@ -90,10 +90,6 @@ Some routes are autenticated and will not be available for public
             {
                 "role" : String, // Discord role
                 "role_color" : String // Discord role color in hexadecimal
-            },
-            {
-                "role" : String, // Discord role
-                "role_color" : String // Discord role color in hexadecimal
             }
         ]
     },
@@ -173,21 +169,13 @@ Some routes are autenticated and will not be available for public
         String // Tags to make wars groups or associations
     ],
     "home_team" : {
-        "team" : ObjectId, // Refer to team's Id
+        "team" : ObjectId, // Refer to team Id
         "score" : Number, // Team final score
         "penality" : Number, // Penality points
         "players" : [
             {
-                "player" : ObjectId, // Refer to player's Id
-                "score" : Number // player's score
-            },
-            {
-                "player" : ObjectId, // Refer to player's Id
-                "score" : Number // player's score
-            },
-            {
-                "player" : ObjectId, // Refer to player's Id
-                "score" : Number // player's score
+                "player" : ObjectId, // Refer to player Id
+                "score" : Number // player score
             }
         ]
     },
@@ -197,16 +185,8 @@ Some routes are autenticated and will not be available for public
         "penality" : Number, // Penality points
         "players" : [
             {
-                "player" : ObjectId, // Refer to player's Id
-                "score" : Number // player's score
-            },
-            {
-                "player" : ObjectId, // Refer to player's Id
-                "score" : Number // player's score
-            },
-            {
-                "player" : ObjectId, // Refer to player's Id
-                "score" : Number // player's score
+                "player" : String, // Player name
+                "score" : Number // player score
             }
         ]
     }
