@@ -23,8 +23,8 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 
 ### Used
 
-<p align="center">
-    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561942886770278421/node_2.png">&nbsp;&nbsp;<img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943014038044692/discordjs.png">&nbsp;&nbsp;<img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943010930065426/discord.png">&nbsp;&nbsp;<img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943019151163393/webhooks.png">&nbsp;&nbsp;<img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943015493730315/glitch.png">
+<p align="center" class="spaced-items">
+    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561942886770278421/node_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943014038044692/discordjs.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943010930065426/discord.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943019151163393/webhooks.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943015493730315/glitch.png">
 </p>
 
 - Nodejs

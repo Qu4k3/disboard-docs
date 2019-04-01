@@ -17,8 +17,8 @@ sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239
 
 ### Used
 
-<p align="center">
-    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561941065016410132/node.png"> &nbsp; <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561939007123095572/vuepress.png"> &nbsp; <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561941062940229659/netlify.png">
+<p align="center" class="spaced-items">
+    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561941065016410132/node.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561939007123095572/vuepress.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561941062940229659/netlify.png">
 </p>
 
 - Nodejs
