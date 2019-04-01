@@ -23,9 +23,19 @@ RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e
 
 ### Used
 
+<p align="center">
+    <img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065427652673556/node_3.png">&nbsp;&nbsp;<img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562067473206214696/mongoose.png">&nbsp;&nbsp;<img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065425190617088/mongodb_2.png">&nbsp;&nbsp;<img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065429997289502/jwt.png">&nbsp;&nbsp;<img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065428659306506/heroku_3.png">&nbsp;&nbsp;<img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562068398440185900/robo3t.png">&nbsp;&nbsp;<img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562068648445870112/postman.png">
+</p>
+
 - Nodejs
 - MongoDB Atas Cluster - [site](https://www.mongodb.com/cloud/atlas)
 - Heroku hosting - [site](https://www.heroku.com)
+
+#### Other
+
+- JSON Web Tokens - [site](https://jwt.io)
+- Robo3T
+- Postman
 
 ### Dependencies
 
