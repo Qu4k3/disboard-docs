@@ -29,12 +29,13 @@ RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e
 
 - Nodejs
 - MongoDB Atas Cluster - [site](https://www.mongodb.com/cloud/atlas)
-- Heroku hosting - [site](https://www.heroku.com)
+- Heroku - [site](https://www.heroku.com)
 
 #### Other
 
 - JSON Web Tokens - [site](https://jwt.io)
 - Robo3T
+- MongoDB Compass
 - Postman
 - CircleCI
 
