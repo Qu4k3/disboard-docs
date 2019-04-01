@@ -1,6 +1,6 @@
 # API
 
-## Info
+## Intro
 
 <p align="center">
     <img src="https://circleci.com/gh/Qu4k3/disboard-api.svg?style=svg&circle-token=c1aea5451e8ad018851e45c477d8f4112b7ebfb4" />&nbsp;
@@ -24,12 +24,13 @@ RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e
 ### Used
 
 <p align="center" class="spaced-items">
-    <img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065427652673556/node_3.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562067473206214696/mongoose.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065425190617088/mongodb_2.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065429997289502/jwt.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065428659306506/heroku_3.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562068398440185900/robo3t.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562068648445870112/postman.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562072391216529440/circleci.png">
+    <img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065427652673556/node_3.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562067473206214696/mongoose.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065425190617088/mongodb_2.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562331319363960834/discord_3.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065429997289502/jwt.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065428659306506/heroku_3.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562068398440185900/robo3t.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562068648445870112/postman.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562072391216529440/circleci.png">
 </p>
 
 - Nodejs
 - MongoDB Atas Cluster - [site](https://www.mongodb.com/cloud/atlas)
 - Heroku - [site](https://www.heroku.com)
+- Discord OAuth2
 
 #### Other
 
@@ -48,10 +49,7 @@ RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e
 - dotenv - [docs](https://github.com/motdotla/dotenv)
 - mongoose
 - nanoid - [docs](https://github.com/ai/nanoid)
-
-#### Other
-
-- nodemon
+- nodemon - [site](https://www.npmjs.com/package/nodemon)
 
 ### Check status
 

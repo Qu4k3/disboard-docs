@@ -1,6 +1,6 @@
 # Bot
 
-## Info
+## Intro
 
 <p align="center">
     <img src="https://img.shields.io/uptimerobot/status/m781988851-938274f9a647999f631d51b0.svg?label=server&style=flat" /> <img src="https://img.shields.io/uptimerobot/ratio/m781988851-938274f9a647999f631d51b0.svg?label=server%20uptime&style=flat" />&nbsp;
@@ -24,7 +24,7 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 ### Used
 
 <p align="center" class="spaced-items">
-    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561942886770278421/node_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943014038044692/discordjs.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943010930065426/discord.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943019151163393/webhooks.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943015493730315/glitch.png">
+    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561942886770278421/node_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943014038044692/discordjs.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943010930065426/discord.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943019151163393/webhooks.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943015493730315/glitch.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562330288265363484/flyio.png">
 </p>
 
 - Nodejs
@@ -41,6 +41,7 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 
 - Discord Developer Portal - [site](https://discordapp.com/developers)
 - Discord Webhooks
+- Fly.io (Custom domain manager)  - [site](https://fly.io/)
 
 ### Check status
 

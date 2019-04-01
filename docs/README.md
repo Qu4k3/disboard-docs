@@ -1,6 +1,6 @@
 # Documentation
 
-## Info
+## Intro
 
 <p align="center">
     <img width="250" height="300" src="https://cdn.discordapp.com/attachments/503303753705848838/561618120649867287/jibril.gif">
@@ -22,7 +22,7 @@ sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239
 </p>
 
 - Nodejs
-- VuePress - [site](https://vuepress.vuejs.org)
+- VuePress 0.x - [site](https://vuepress.vuejs.org)
 - Netlify deploy/hosting - [site](https://www.netlify.com)
 
 ### Dependencies
@@ -32,10 +32,65 @@ sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239
 
 ### Check status
 
-[https://docs.disboard.team](https://docs.disboard.team) _(this page_ :clap:_)_
+[https://docs.disboard.team](https://docs.disboard.team) _(this page_ :clap::sweat_smile:_)_
 
 ### Repository <Badge text="public"/>
 
 [https://github.com/Qu4k3/disboard-docs](https://github.com/Qu4k3/disboard-docs)
+
+## Thematic
+
+<p align="center">
+    <img height="250" src="https://media.discordapp.net/attachments/561938814063607823/562342755469361162/No-Game-No-Life-anime-logo.svg.png">
+</p>
+
+The name of the team 『 Disboard 』 refers to the novel/original series of **No Game No Life**. ~_for further interest, take a look at the [wiki](https://no-game-no-life.fandom.com/wiki/Disboard)_
+
+Therefore, both the logo, internal regulations, designs and concepts are related to the novel/series.
+
+Characters from the series are used as the name/image for each server or service. Each one chosed for a specific reason. Anybody that knows the context can get a little smile if he is able to see the connection. :blush: ~_check other [funny server naming examples](https://techtalk.gfi.com/the-24-funniest-server-naming-conventions-youve-ever-seen/)_
+
+<table class="no-border-table">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Background</th>
+            <th>Associated</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="race-badge jibril">
+            <td><img src="https://media.discordapp.net/attachments/503303753705848838/561619188687568916/jibril_square.jpg"></td>
+            <td>Jibril</td>
+            <td>Race: <span>Flügel</span><br><br>She has a disproportionate love towards knowledge.<br>Funny character too, as this docs are, are they even serious documentation ?</td>
+            <td>Documentation</td>
+        </tr>
+        <tr class="race-badge shuvi">
+            <td><img src="https://media.discordapp.net/attachments/561938814063607823/562349019259600899/shuvi_square.png"></td>
+            <td>Shuvi </td>
+            <td>Race: <span>Ex-Machina</span><br><br>She can absorb and process data and intelligence very quickly and act in the appropriate manner, a unique characteristic of her race.<br>They are mentally linked and can be considered one entity by conveying information received by each units to clusters.</td>
+            <td>API</td>
+        </tr>
+        <tr>
+            <td>Undefined</td>
+            <td>Undefined</td>
+            <td></td>
+            <td>Website</td>
+        </tr>
+        <tr>
+            <td><img src="https://media.discordapp.net/attachments/561938814063607823/562364217618071553/tet_github_square.png"></td>
+            <td>Tet</td>
+            <td><strong>The One True God</strong><br><br>He draggs the main characters into the world of Disboard. He explains them the Ten Pledges, the rules that govern the world.<br><br><em>It looked funny to get a bot named Tet placed above all team members in Discord's server, and being the one to welcome new members and serve information.</em><br><br><em>Note: first service started being developped</em></td>
+            <td>Discord Bot</td>
+        </tr>
+        <tr>
+            <td>Undefined</td>
+            <td>Undefined</td>
+            <td></td>
+            <td>Dashboard</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Ecosystem

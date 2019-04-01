@@ -1,6 +1,6 @@
 # Website
 
-## Info
+## Intro
 
 <p align="center">
     <img src="https://img.shields.io/uptimerobot/status/m782313365-bb837257051f080edab58f83.svg?label=server&style=flat" /> <img src="https://img.shields.io/uptimerobot/ratio/m782313365-bb837257051f080edab58f83.svg?label=server%20uptime&style=flat" />&nbsp;
