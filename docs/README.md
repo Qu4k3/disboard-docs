@@ -63,13 +63,13 @@ Characters from the series are used as the name/image for each server or service
         <tr class="race-badge jibril">
             <td><img src="https://media.discordapp.net/attachments/503303753705848838/561619188687568916/jibril_square.jpg"></td>
             <td>Jibril</td>
-            <td>Race: <span>Flügel</span><br><br>She has a disproportionate love towards knowledge.<br>Funny character too, as this docs are, are they even serious documentation ?</td>
+            <td>Race: <span>Flügel</span><br><br>She has a disproportionate love towards knowledge.<br><br><em>Funny character too, as this docs are ?) are they even serious documentation ?)</em></td>
             <td>Documentation</td>
         </tr>
         <tr class="race-badge shuvi">
             <td><img src="https://media.discordapp.net/attachments/561938814063607823/562349019259600899/shuvi_square.png"></td>
             <td>Shuvi </td>
-            <td>Race: <span>Ex-Machina</span><br><br>She can absorb and process data and intelligence very quickly and act in the appropriate manner, a unique characteristic of her race.<br>They are mentally linked and can be considered one entity by conveying information received by each units to clusters.</td>
+            <td>Race: <span>Ex-Machina</span><br><br>She can absorb and process data and intelligence very quickly and act in the appropriate manner, a unique characteristic of her race.<br>Ex-Machinas are mentally linked and can be considered one entity by conveying information received by each units to clusters.</td>
             <td>API</td>
         </tr>
         <tr>
@@ -94,3 +94,5 @@ Characters from the series are used as the name/image for each server or service
 </table>
 
 ## Ecosystem
+
+Lorem ipsum
