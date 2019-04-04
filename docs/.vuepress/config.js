@@ -25,7 +25,8 @@ module.exports = {
                 'bot'
             ]
         },
-        displayAllHeaders: true
+        displayAllHeaders: true,
+        lastUpdated: 'Last Updated'
     },
     head: [
         ['link', { rel: "icon", href: "/favicon.ico" }]
