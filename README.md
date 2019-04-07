@@ -2,11 +2,11 @@
     <img width="250" height="300" src="https://cdn.discordapp.com/attachments/503303753705848838/561618120649867287/jibril.gif">
 </p>
 
-### About
+# Disboard Docs
 
 Documentation that covers everything related to the disboard project
 
-### Used
+## Used
 
 - Nodejs
 - VuePress
@@ -17,7 +17,7 @@ Documentation that covers everything related to the disboard project
 - vuepress
 - webpack-dev-middleware _(v 3.6.0)_
 
-### Setup
+## Setup
 
 > run `npm install` to install all the dependencies
 
@@ -34,11 +34,13 @@ npm install webpack-dev-middleware@3.6.0
 > run VuePress
 
 test it
+
 ```shell
 npm run docs:dev
 ```
 
-or built it
+or build it
+
 ```shell
 npm run docs:build
 ```
