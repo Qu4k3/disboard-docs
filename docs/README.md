@@ -41,7 +41,7 @@ sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239
 ## Thematic
 
 <p align="center">
-    <img height="250" src="https://media.discordapp.net/attachments/561938814063607823/562342755469361162/No-Game-No-Life-anime-logo.svg.png">
+    <img style="max-height:250px;" src="https://media.discordapp.net/attachments/561938814063607823/562342755469361162/No-Game-No-Life-anime-logo.svg.png">
 </p>
 
 The name of the team 『 Disboard 』 refers to the novel/original series of **No Game No Life**. ~_for further interest, take a look at the [wiki](https://no-game-no-life.fandom.com/wiki/Disboard)_
