@@ -19,6 +19,24 @@ Lorem ipsum
 
 RGB <span style="background-color: #9b59b6;padding:5px 10px;color:#fff;">#9b59b6</span>&nbsp;&nbsp;<span style="background-color: #9b59b6;padding:5px 10px;color:#fff;">rgb(155, 89, 182)</span> / sRGB <span style="background-color: #af59ba;padding:5px 10px;color:#fff;">#af59ba</span>&nbsp;&nbsp;<span style="background-color: #af59ba;padding:5px 10px;color:#fff;">rgb(175, 89, 186)</span>
 
+### Used
+
+<p align="center" class="spaced-items">
+    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933251831660575/react_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933254834913310/jsx_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565935464499118101/pwa.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933254390317076/netlify_2.png">
+</p>
+
+- React
+- Netlify
+
+#### Other
+
+- JSX
+- PWA (Progressive Web App)
+
+### Dependencies
+
+- _dotenv_
+
 ### Check status
 
 [https://disboard.team](https://disboard.team)
