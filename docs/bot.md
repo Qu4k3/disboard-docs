@@ -30,18 +30,18 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 - Nodejs
 - Glitch hosting - [site](https://glitch.com)
 
+#### Other
+
+- Discord Developer Portal - [site](https://discordapp.com/developers)
+- Discord Webhooks
+- Fly.io (Custom domain manager)  - [site](https://fly.io/)
+
 ### Dependencies
 
 - express
 - discord.js - [site](https://discord.js.org)
 - http
 - _dotenv_ (implicit)
-
-### Other
-
-- Discord Developer Portal - [site](https://discordapp.com/developers)
-- Discord Webhooks
-- Fly.io (Custom domain manager)  - [site](https://fly.io/)
 
 ### Check status
 
@@ -61,7 +61,7 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 
 `dynamic` - Retrieve information by calling the API
 
-::: tip Extra
+::: tip Additional note
  _Not a command but..._ depending on the role that is attributed to new members, an embeded response is shown to the user, with an introtuction/welcoming message. `static`
 :::
 
