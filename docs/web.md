@@ -22,7 +22,7 @@ RGB <span style="background-color: #9b59b6;padding:5px 10px;color:#fff;">#9b59b6
 ### Used
 
 <p align="center" class="spaced-items">
-    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933251831660575/react_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933254834913310/jsx_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565935464499118101/pwa.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933254390317076/netlify_2.png">
+    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933251831660575/react_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933254834913310/jsx_2.png"><img width="100" src="https://discordapp.com/channels/348416820169932801/561938814063607823/566189918095933461"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565935464499118101/pwa.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933254390317076/netlify_2.png">
 </p>
 
 - React
@@ -31,6 +31,7 @@ RGB <span style="background-color: #9b59b6;padding:5px 10px;color:#fff;">#9b59b6
 #### Other
 
 - JSX
+- React Router - [docs](https://github.com/ReactTraining/react-router)
 - PWA (Progressive Web App)
 
 ### Dependencies
