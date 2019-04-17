@@ -11,8 +11,10 @@
   "repository": "github:Qu4k3/disboard-docs",
   "author": "Qu4k3",
   "license": "ISC",
-  "devDependencies": {
-    "vuepress": "^0.14.10",
+  "dependencies": {
+    "vuepress": "^0.14.10"
+  },
+  "devDependencies": {    
     "webpack-dev-middleware": "^3.6.0"
   }
 }
