@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/uptimerobot/status/m781896193-0fc26013b414711d48d26082.svg?label=API%20status&style=flat" /> <img src="https://img.shields.io/uptimerobot/ratio/m781896193-0fc26013b414711d48d26082.svg?label=API%20uptime&style=flat" />
 </p>
 <p align="center">
-    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/561938814063607823/561966129514283008/shuvi.gif">
+    <img width="250" height="300" src="https://media.discordapp.net/attachments/561938814063607823/574335592259780608/shuvi.gif">
 </p>
 
 ### About

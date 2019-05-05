@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/561938814063607823/565663791518318635/kuhaku.gif">
+    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/561938814063607823/574337501842374667/kuhaku.gif">
 </p>
 
 ### About
