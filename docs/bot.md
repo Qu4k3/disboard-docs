@@ -59,7 +59,7 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 
 `library` - Retrieve information by using discord.js library
 
-`dynamic` - Retrieve information by calling the API
+`API` - Retrieve information by calling the API
 
 ::: tip Additional note
  _Not a command but..._ depending on the role that is attributed to new members, an embeded response is shown to the user, with an introtuction/welcoming message. `static`
@@ -71,8 +71,8 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 |:----------|:----------|:----------------------|:-------|
 | +tag | `static`      | Shows an embeded response with name and team tag.                                                                                                                                | +tag |
 | +tabla | `static`    | Shows an embeded response with a direct link to table generator.                                                                                                                 | +tabla |
-| +info | `library`<br><br>`dynamic`     | Shows an embeded response with user information: incorporation date, played games, average points, W/L ratio.<br>Can be used to check other teammate's information.              | +info<br>+info&#160;@user |
-| +wars | `dynamic`     | Shows an embeded response with team information: played matches, victories, loses, draws, % wined matches.                                                                       | +wars |
+| +info | `library`<br><br>`API`     | Shows an embeded response with user information: incorporation date, played games, average points, W/L ratio.<br>Can be used to check other teammate's information.              | +info<br>+info&#160;@user |
+| +wars | `API`     | Shows an embeded response with team information: played matches, victories, loses, draws, % wined matches.                                                                       | +wars |
 | +disboard | `library` | Shows an embeded response with a list of members split by their role, in order to check how many members/allys/trials there are, as well as the number of members on the server. | +disboard |
 | ~~+snl~~ | `static`  | Shows a list of registered users elegible to compete in the league.<br>`removed`                                                                                                 | ~~+snl~~ |
 | +invi | `static`     | Shows an embeded response with an invite server link.                                                                                                                            | +invi |
