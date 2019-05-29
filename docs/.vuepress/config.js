@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Disboard.team Docs',
-    description: 'Disboard documentation',
+    description: 'Disboard documentation. Covers everything related to the disboard project, from the web and API reference to the coding and commands from the bot.',
     base: "/",
     themeConfig: {
         logo: 'https://cdn.discordapp.com/attachments/503303753705848838/561619188687568916/jibril_square.jpg',
