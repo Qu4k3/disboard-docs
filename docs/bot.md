@@ -71,7 +71,7 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 |:----------|:----------|:----------------------|:-------|
 | +tag | `static`      | Shows an embeded response with name and team tag.                                                                                                                                | +tag |
 | +tabla | `static`    | Shows an embeded response with a direct link to table generator.                                                                                                                 | +tabla |
-| +info | `library`<hr style="border-color: transparent">`API`     | Shows an embeded response with user information: incorporation date, played games, average points, W/L ratio.<br>Can be used to check other teammate's information.              | +info<br>+info&#160;@user |
+| +info | `library`<hr class="no-border">`API`     | Shows an embeded response with user information: incorporation date, played games, average points, W/L ratio.<br>Can be used to check other teammate's information.              | +info<hr class="no-border">+info&#160;@user |
 | +wars | `API`     | Shows an embeded response with team information: played matches, victories, loses, draws, % wined matches.                                                                       | +wars |
 | +disboard | `library` | Shows an embeded response with a list of members split by their role, in order to check how many members/allys/trials there are, as well as the number of members on the server. | +disboard |
 | ~~+snl~~ | `static`  | Shows a list of registered users elegible to compete in the league.<br>`removed`                                                                                                 | ~~+snl~~ |

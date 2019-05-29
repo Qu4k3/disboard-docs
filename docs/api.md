@@ -68,10 +68,10 @@ Lorem ipsum
 | METHOD        | PATH           | DESCRIPTION  |
 | ------------- |-------------| -----|
 | GET       | /players | Retrieve a list of all players |
-| GET       | /player/{playerId}      |   Retrieve a specific player by it's ID |
-| POST      | /player      |    Add a new player to database |
-| PUT       | /player/{playerId}      |    Edit information from a specific player |
-| DEL       | /player/{playerId}      |    Delete a player |
+| GET       | /players/{playerId}      |   Retrieve a specific player by it's ID |
+| POST      | /players      |    Add a new player to database |
+| PUT       | /players/{playerId}      |    Edit information from a specific player |
+| DEL       | /players/{playerId}      |    Delete a player |
 
 ::: warning
 Some routes are autenticated and will not be available for public
@@ -125,10 +125,10 @@ Lorem ipsum
 | METHOD        | PATH           | DESCRIPTION  |
 | ------------- |-------------| -----|
 | GET       | /teams | Retrieve a list of all teams |
-| GET       | /team/{teamId}      |   Retrieve a specific team by it's ID |
-| POST      | /team      |    Add a new team to database |
-| PUT       | /team/{teamId}      |    Edit information from a specific team |
-| DEL       | /team/{teamId}      |    Delete a team |
+| GET       | /teams/{teamId}      |   Retrieve a specific team by it's ID |
+| POST      | /teams      |    Add a new team to database |
+| PUT       | /teams/{teamId}      |    Edit information from a specific team |
+| DEL       | /teams/{teamId}      |    Delete a team |
 
 ::: warning
 Some routes are autenticated and will not be available for public
@@ -158,10 +158,10 @@ Some routes are autenticated and will not be available for public
 | METHOD        | PATH           | DESCRIPTION  |
 | ------------- |-------------| -----|
 | GET       | /wars | Retrieve a list of all teams |
-| GET       | /war/{warId}      |   Retrieve a specific team by it's ID |
-| POST      | /war      |    Add a new team to database |
-| PUT       | /war/{warId}      |    Edit inforamation |
-| DEL       | /war/{warId}      |    Delete a war |
+| GET       | /wars/:warId      |   Retrieve a specific team by it's ID |
+| POST      | /wars      |    Add a new team to database |
+| PUT       | /wars/:warId      |    Edit inforamation |
+| DEL       | /wars/:warId      |    Delete a war |
 
 ::: warning
 Some routes are autenticated and will not be available for public
@@ -186,27 +186,31 @@ Some routes are autenticated and will not be available for public
     "tags" : [
         String // Tags to make wars groups or associations
     ],
-    "home_team" : {
-        "team" : ObjectId, // Refer to team Id
-        "score" : Number, // Team final score
-        "penality" : Number, // Penality points
-        "players" : [
-            {
-                "player" : ObjectId, // Refer to player Id
-                "score" : Number // player score
-            }
-        ]
-    },
-    "away_team" : {
-        "team" : ObjectId, // Refer to team's Id
-        "score" : Number, // Team final score
-        "penality" : Number, // Penality points
-        "players" : [
-            {
-                "player" : String, // Player name
-                "score" : Number // player score
-            }
-        ]
-    }
+    "results" : [
+        {
+            "team" : ObjectId, // Refer to team Id
+            "host" : Boolean, // Define if the team is hosting the game
+            "score" : Number, // Team final score
+            "penality" : Number, // Penality points
+            "players" : [
+                {
+                    "player" : ObjectId, // Refer to player Id
+                    "score" : Number // player score
+                }
+            ]
+        },
+        {
+            "team" : ObjectId, // Refer to team's Id
+            "host" : Boolean, // Define if the team is hosting the game
+            "score" : Number, // Team final score
+            "penality" : Number, // Penality points
+            "players" : [
+                {
+                    "player" : String, // Player name
+                    "score" : Number // player score
+                }
+            ]
+        }
+    ]
 }
 ```
