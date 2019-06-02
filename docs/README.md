@@ -103,7 +103,11 @@ Lorem ipsum
     <img width="480" height="240" src="https://cdn.discordapp.com/attachments/561938814063607823/584427259897577634/izuna_f.gif">
 </p>
 
-Monitoring of all project services, using Uptime Robot monitoring tool.
+Monitoring of the main project services, using Uptime Robot monitoring tool.
+
+* API
+* Bot
+* Website
 
 ### Check status
 
