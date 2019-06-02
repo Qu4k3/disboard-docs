@@ -90,6 +90,12 @@ Characters from the series are used as the name/image for each server or service
             <td></td>
             <td>Dashboard</td>
         </tr>
+        <tr class="race-badge hatsuse">
+            <td><img src="https://cdn.discordapp.com/attachments/561938814063607823/584861507452534805/hatsuse.jpg"></td>
+            <td>Izuna</td>
+            <td>Race: <span class="badge">Werebeast</span><br><br></em></td>
+            <td>Status page</td>
+        </tr>
     </tbody>
 </table>
 
@@ -106,8 +112,8 @@ Lorem ipsum
 Monitoring of the main project services, using Uptime Robot monitoring tool.
 
 * API
-* Bot
 * Website
+* Bot
 
 ### Check status
 

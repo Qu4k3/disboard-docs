@@ -43,7 +43,7 @@ RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63
 - http
 - _dotenv_ (implicit)
 
-### Check status
+### Check page
 
 [https://bot.disboard.team](https://bot.disboard.team)
 

@@ -38,7 +38,7 @@ RGB <span style="background-color: #9b59b6;padding:5px 10px;color:#fff;">#9b59b6
 
 - _dotenv_
 
-### Check status
+### Check site
 
 [https://disboard.team](https://disboard.team)
 

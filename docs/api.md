@@ -51,7 +51,7 @@ RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e
 - nanoid - [docs](https://github.com/ai/nanoid)
 - nodemon - [site](https://www.npmjs.com/package/nodemon)
 
-### Check status
+### Check page
 
 [https://api.disboard.team](https://api.disboard.team)
 
