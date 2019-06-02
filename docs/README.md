@@ -30,7 +30,7 @@ sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239
 - vuepress
 - webpack-dev-middleware _(v 3.6.0)_
 
-### Check status
+### Take a look
 
 [https://docs.disboard.team](https://docs.disboard.team) _(this page_ :clap::sweat_smile:_)_
 
@@ -96,3 +96,15 @@ Characters from the series are used as the name/image for each server or service
 ## Ecosystem
 
 Lorem ipsum
+
+## Status page
+
+<p align="center">
+    <img width="480" height="240" src="https://cdn.discordapp.com/attachments/561938814063607823/584427259897577634/izuna_f.gif">
+</p>
+
+Monitoring of all project services, using Uptime Robot monitoring tool.
+
+### Check status
+
+[https://status.disboard.team](https://status.disboard.team)
