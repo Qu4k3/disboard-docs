@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/561938814063607823/574337501842374667/kuhaku.gif">
+    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/561938814063607823/585952102833061902/kuhaku.gif">
 </p>
 
 ### About
@@ -17,7 +17,7 @@ Lorem ipsum
 
 ### Color code
 
-RGB <span style="background-color: #364a92;padding:5px 10px;color:#fff;">#364a92</span>&nbsp;&nbsp;<span style="background-color: #364a92;padding:5px 10px;color:#fff;">rgb(54, 74, 146)</span> / sRGB <span style="background-color: #af59ba;padding:5px 10px;color:#fff;">#af59ba</span>&nbsp;&nbsp;<span style="background-color: #af59ba;padding:5px 10px;color:#fff;">rgb(175, 89, 186)</span>
+RGB <span style="background-color: #364a92;padding:5px 10px;color:#fff;">#364a92</span>&nbsp;&nbsp;<span style="background-color: #364a92;padding:5px 10px;color:#fff;">rgb(54, 74, 146)</span>
 
 ### Used
 

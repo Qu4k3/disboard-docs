@@ -68,12 +68,16 @@ Lorem ipsum
 | METHOD        | PATH           | DESCRIPTION  |
 | ------------- |-------------| -----|
 | GET       | /players | Retrieve a list of all players |
-| GET       | /players/{playerId}      |   Retrieve a specific player by it's ID |
+| GET       | /players/:playerId      |   Retrieve a specific player by it's ID _*check note_ |
 | POST      | /players      |    Add a new player to database |
-| PUT       | /players/{playerId}      |    Edit information from a specific player |
-| DEL       | /players/{playerId}      |    Delete a player |
+| PUT       | /players/:playerId      |    Edit information from a specific player |
+| DEL       | /players/:playerId      |    Delete a player |
 
-::: warning
+::: tip NOTE
+**:playerId** can be both the user's ID provided by the app or its Discord unique ID
+:::
+
+::: warning PERMISSIONS
 Some routes are autenticated and will not be available for public
 :::
 
@@ -87,6 +91,7 @@ Some routes are autenticated and will not be available for public
 
 ``` json
 {
+    "player_id" : String, // Player ID
     "player_name" : String, // Player nickname
     "player_team" : String, // Refer to team's Id
     "country" : {
@@ -144,10 +149,11 @@ Some routes are autenticated and will not be available for public
 
 ``` json
 {
-    "team_name" : "", // String
-    "team_tag" : "", // String
-    "team_logo" : "", // direct image link
-    "mkc_team_profile" : "" // mkc team link (ex: https://www.mariokartcentral.com/mkc/teams/42)
+    "team_id" : String, // Team unique ID
+    "team_name" : String, // Team name
+    "team_tag" : String, // Team tag
+    "team_logo" : String, // direct image link
+    "mkc_team_profile" : String // mkc team link (ex: https://www.mariokartcentral.com/mkc/teams/42)
 }
 ```
 
@@ -177,6 +183,7 @@ Some routes are autenticated and will not be available for public
 
 ``` json
 {
+    "war_id": String, // War unique ID
     "played_at" : Date, // Date where the war was played
     "game" : {
         "name" : String, // Game's code --default: MK8D
