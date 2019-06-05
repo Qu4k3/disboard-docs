@@ -135,7 +135,7 @@ Lorem ipsum
 | PUT       | /teams/{teamId}      |    Edit information from a specific team |
 | DEL       | /teams/{teamId}      |    Delete a team |
 
-::: warning
+::: warning PERMISSIONS
 Some routes are autenticated and will not be available for public
 :::
 
@@ -169,7 +169,7 @@ Some routes are autenticated and will not be available for public
 | PUT       | /wars/:warId      |    Edit inforamation |
 | DEL       | /wars/:warId      |    Delete a war |
 
-::: warning
+::: warning PERMISSIONS
 Some routes are autenticated and will not be available for public
 :::
 
