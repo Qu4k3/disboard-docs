@@ -8,7 +8,7 @@
 
 ### About
 
-Documentation that covers everything related to the disboard project
+Documentation that covers everything related to the Disboard.team project.
 
 ### Color code
 
