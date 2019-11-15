@@ -19,7 +19,7 @@ Project hosted in Heroku.
 
 ### Color code
 
-RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e</span>&nbsp;&nbsp;<span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">rgb(166, 26, 94)</span> / sRGB <span style="background-color: #c21360;padding:5px 10px;color:#fff;">#c21360</span>&nbsp;&nbsp;<span style="background-color: #c21360;padding:5px 10px;color:#fff;">rgb(194, 19, 96)</span>
+<span style="line-height: 2.2;">RGB <span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">#a61a5e</span>&nbsp;&nbsp;<span style="background-color: #a61a5e;padding:5px 10px;color:#fff;">rgb(166, 26, 94)</span> / sRGB <span style="background-color: #c21360;padding:5px 10px;color:#fff;">#c21360</span>&nbsp;&nbsp;<span style="background-color: #c21360;padding:5px 10px;color:#fff;">rgb(194, 19, 96)</span></span>
 
 ### Used
 

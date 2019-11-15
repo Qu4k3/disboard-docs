@@ -19,7 +19,7 @@ Discord bot built for team management, quick info checking and some other helpfu
 
 ### Color code
 
-RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63</span>&nbsp;&nbsp;<span style="background-color: #e91e63;padding:5px 10px;color:#fff;">rgb(233, 30, 99)</span> / sRGB <span style="background-color: #ff1865;padding:5px 10px;color:#fff;">#ff1865</span>&nbsp;&nbsp;<span style="background-color: #ff1865;padding:5px 10px;color:#fff;">rgb(255, 24, 101)</span>
+<span style="line-height: 2.2;">RGB <span style="background-color: #e91e63;padding:5px 10px;color:#fff;">#e91e63</span>&nbsp;&nbsp;<span style="background-color: #e91e63;padding:5px 10px;color:#fff;">rgb(233, 30, 99)</span> / sRGB <span style="background-color: #ff1865;padding:5px 10px;color:#fff;">#ff1865</span>&nbsp;&nbsp;<span style="background-color: #ff1865;padding:5px 10px;color:#fff;">rgb(255, 24, 101)</span></span>
 
 ### Used
 

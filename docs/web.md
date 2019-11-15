@@ -17,7 +17,7 @@ Lorem ipsum
 
 ### Color code
 
-RGB <span style="background-color: #364a92;padding:5px 10px;color:#fff;">#364a92</span>&nbsp;&nbsp;<span style="background-color: #364a92;padding:5px 10px;color:#fff;">rgb(54, 74, 146)</span>
+<span style="line-height: 2.2;">RGB <span style="background-color: #364a92;padding:5px 10px;color:#fff;">#364a92</span>&nbsp;&nbsp;<span style="background-color: #364a92;padding:5px 10px;color:#fff;">rgb(54, 74, 146)</span></span>
 
 ### Used
 
