@@ -101,6 +101,7 @@ Characters from the series are used as the name/image for each server or service
 
 ## Ecosystem
 
+<br>
 <p align="center">
     <img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/561938814063607823/644928388129357835/ecosystem.jpg">
 </p>
