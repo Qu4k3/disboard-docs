@@ -12,8 +12,10 @@ Documentation that covers everything related to the Disboard.team project.
 
 ### Color code
 
+<p style="line-height: 2.2;">
 RGB <span style="background-color: #dd2499;padding:5px 10px;color:#fff;">#dd2499</span>&nbsp;&nbsp;<span style="background-color: #dd2499;padding:5px 10px;color:#fff;">rgb(221, 36, 153)</span> / 
 sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239d</span>&nbsp;&nbsp;<span style="background-color: #ff239d;padding:5px 10px;color:#fff;">rgb(255, 35, 157)</span>
+</p>
 
 ### Used
 
