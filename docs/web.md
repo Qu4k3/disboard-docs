@@ -13,7 +13,7 @@
 
 ### About
 
-Lorem ipsum
+Disboard.team site built using React.
 
 ### Color code
 
@@ -22,20 +22,21 @@ Lorem ipsum
 ### Used
 
 <p align="center" class="spaced-items">
-    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933251831660575/react_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933254834913310/jsx_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/566189918095933460/react-router.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565935464499118101/pwa.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/565933254390317076/netlify_2.png">
+    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721487233231880232/react_3.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721487224662917200/jsx_3.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721487215129133158/react-router_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721487801706610698/react-helmet.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721488319040585790/vercel_2.png">
 </p>
 
 - React
-- Netlify
+- Vercel
 
 #### Other
 
 - JSX
 - React Router - [docs](https://github.com/ReactTraining/react-router)
-- PWA (Progressive Web App)
+- React Helmet - [github](https://github.com/nfl/react-helmet)
 
 ### Dependencies
 
+- Node Sass
 - _dotenv_
 
 ### Check site
@@ -45,11 +46,3 @@ Lorem ipsum
 ### Repository <Badge text="private" type="warn" vertical="top"/>
 
 [https://github.com/Qu4k3/disboard-web](https://github.com/Qu4k3/disboard-web)
-
-## Technology
-
-Lorem ipsum
-
-## Utils
-
-Lorem ipsum

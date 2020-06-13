@@ -14,7 +14,7 @@
   "dependencies": {
     "vuepress": "^0.14.10"
   },
-  "devDependencies": {    
+  "devDependencies": {
     "webpack-dev-middleware": "^3.6.0"
   }
 }
