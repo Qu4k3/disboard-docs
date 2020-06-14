@@ -61,8 +61,6 @@ Project hosted in Heroku.
 
 ## Players
 
-Lorem ipsum
-
 ### Resource description /players
 
 | METHOD        | PATH           | DESCRIPTION  |
@@ -123,8 +121,6 @@ Some routes are autenticated and will not be available for public
 
 ## Teams
 
-Lorem ipsum
-
 ### Resource description /teams
 
 | METHOD        | PATH           | DESCRIPTION  |
@@ -157,7 +153,7 @@ Some routes are autenticated and will not be available for public
 }
 ```
 
-## Wars
+s
 
 ### Resource description /wars
 
