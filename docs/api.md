@@ -159,9 +159,9 @@ s
 
 | METHOD        | PATH           | DESCRIPTION  |
 | ------------- |-------------| -----|
-| GET       | /wars | Retrieve a list of all teams |
-| GET       | /wars/:warId      |   Retrieve a specific team by it's ID |
-| POST      | /wars      |    Add a new team to database |
+| GET       | /wars | Retrieve a list of all wars |
+| GET       | /wars/:warId      |   Retrieve a specific war by it's ID |
+| POST      | /wars      |    Add a new war to database |
 | PUT       | /wars/:warId      |    Edit inforamation |
 | DEL       | /wars/:warId      |    Delete a war |
 
